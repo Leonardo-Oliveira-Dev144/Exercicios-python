@@ -1,0 +1,5 @@
+nome = input('QUAL É O SEU NOME?')
+print(f'OLÁ {nome}, BEM-VINDO(A) AO PYTHON!')
+print(f'ESSE NOME CONTÉM {len(nome)} LETRAS')
+print(f'SEU NOME EM MAIÚSCULAS FICA {nome.upper()}')
+print(f'SEU NOME EM MINÚSCULAS FICA {nome.lower()}')
